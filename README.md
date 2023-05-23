@@ -2,7 +2,7 @@
 
 This repository contains the code and assets for a single-page web application that serves as a product details page. It provides comprehensive information about a fitbit smartwatch, including its description, features and specification.
 
-https://github.com/LionLamp/ACE-Product-Details-Page/assets/105679548/f95adf45-c06e-4a15-8c56-5d336e548780
+https://github.com/LionLamp/ACE-Web-App/assets/105679548/0827bcdc-1b37-4c97-ab5e-a1d3238e9ecb
 
 # Key Features:
 Responsive design
