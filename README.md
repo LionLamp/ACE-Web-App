@@ -1,4 +1,4 @@
-### Single Page Web App - ACE Product Details Page
+# Single Page Web App - ACE Product Details Page
 
 This repository contains the code and assets for a single-page web application that serves as a product details page. It provides comprehensive information about a fitbit smartwatch, including its description, features and specification.
 
